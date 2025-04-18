@@ -1,0 +1,11 @@
+customer-segmentation-analysis/
+├── data/
+│   └── customers.csv
+├── notebooks/
+│   └── Customer_Segmentation.ipynb
+├── src/
+│   ├── data_processing.py
+│   └── visualization.py
+├── requirements.txt
+├── README.md
+└── .gitignore
